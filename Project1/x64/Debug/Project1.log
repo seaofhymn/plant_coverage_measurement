@@ -1,0 +1,11 @@
+﻿  源.cpp
+d:\opencv3.1\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.1\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.1\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.1\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\乔宇\硕士毕业论文\代码\覆盖率\整体\project1\源.cpp(70): warning C4244: “+=”: 从“float”转换到“long”，可能丢失数据
+e:\乔宇\硕士毕业论文\代码\覆盖率\整体\project1\源.cpp(71): warning C4244: “+=”: 从“float”转换到“long”，可能丢失数据
+e:\乔宇\硕士毕业论文\代码\覆盖率\整体\project1\源.cpp(79): warning C4244: “+=”: 从“float”转换到“long”，可能丢失数据
+e:\乔宇\硕士毕业论文\代码\覆盖率\整体\project1\源.cpp(80): warning C4244: “+=”: 从“float”转换到“long”，可能丢失数据
+  Project1.vcxproj -> E:\乔宇\硕士毕业论文\代码\覆盖率\整体\x64\Debug\Project1.exe
+  Project1.vcxproj -> E:\乔宇\硕士毕业论文\代码\覆盖率\整体\x64\Debug\Project1.pdb (Partial PDB)
